@@ -1,0 +1,21 @@
+# Node.js dependencies
+/node_modules
+
+# Dependency directories
+/npm-debug.log
+/yarn-error.log
+
+# Optional: Logs and debugging files
+/logs
+*.log
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: IDE-specific files
+.vscode/
+.idea/
+
+# Optional: Configuration files
+.env
